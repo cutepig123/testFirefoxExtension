@@ -1,0 +1,5 @@
+content   hejinshouhello                content/
+skin      hejinshouhello  classic/1.0   skin/
+locale    hejinshouhello  en-US         locale/en-US/
+
+overlay chrome://browser/content/browser.xul  chrome://hejinshouhello/content/browserOverlay.xul
