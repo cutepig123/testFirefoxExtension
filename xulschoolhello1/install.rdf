@@ -5,7 +5,7 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>helloworld@xulschool.com</em:id>
-    <em:name>XUL School hejinshous Hello World</em:name>
+    <em:name>XUL School Hello World</em:name>
     <em:description>Welcome to XUL School!</em:description>
     <em:version>0.1</em:version>
     <em:creator>Appcoast</em:creator>
