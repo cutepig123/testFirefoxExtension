@@ -21,5 +21,6 @@
 	如何用properties动态拿到 getFormattedString？
 	什么是skin？
 	如何在overlay里面指定skin？
+	用什么编辑器？
 	
 https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Getting_Started_with_Firefox_Extensions
