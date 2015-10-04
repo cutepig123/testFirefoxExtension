@@ -19,3 +19,4 @@ XULSchoolChrome.BrowserOverlay = {
     window.alert(message);
   }
 };
+

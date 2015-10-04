@@ -1,4 +1,5 @@
 - Example1 xulschoolhello1
+https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Getting_Started_with_Firefox_Extensions
 学习
 	编写extension需要的基本文件
 	什么是install.rdf文件
@@ -22,5 +23,10 @@
 	什么是skin？
 	如何在overlay里面指定skin？
 	用什么编辑器？
+	什么是 Firefox profiles
+	how to get error information from your extension in The Firefox Error Console？
+	如何Using directories rather than JARs？
+	如何设置Recommended development preferences？	https://developer.mozilla.org/en-US/Add-ons/Setting_up_extension_development_environment#Development_preferences
+	如何设置Firefox extension proxy file？	
+	how To debug extension and browser code?
 	
-https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School/Getting_Started_with_Firefox_Extensions
